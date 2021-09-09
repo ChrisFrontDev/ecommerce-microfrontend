@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "webpack serve"
+  },
   "dependencies": {
     "faker": "5.1.0",
     "html-webpack-plugin": "5.1.0",
